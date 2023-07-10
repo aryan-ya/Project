@@ -1,2 +1,5 @@
 # Project
  
+PROJECT IS FULLY RESPONSIVE ...
+
+HTML , CSS
